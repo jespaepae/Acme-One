@@ -8,4 +8,5 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+- Juan Antonio Ortiz Guerra (juanantonioortizguerra@gmail.com)
 - Jesús Paez Paez (jespaepae@alum.us.es)
