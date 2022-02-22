@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="https://mega.atresmedia.com/programas/el-chiringuito-de-jugones/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="77942016F:Pinero Calera, Borja" action="http://www.youtube.com"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.juaortgue" action="http://www.amazon.com/"/>
