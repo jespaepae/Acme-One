@@ -19,8 +19,8 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="https://mega.atresmedia.com/programas/el-chiringuito-de-jugones/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.pabramber" action="https://mega.atresmedia.com/programas/el-chiringuito-de-jugones/"/>			
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.nurgomari" action="https://www.twitch.tv/"/>
 			<acme:menu-suboption code="08371106A: Gallardo Roco, Raul" action="https://www.marca.com"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.jespaepae" action="https://coderadio.freecodecamp.org/"/>
